@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SolarES": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Users\\andrej\\Downloads\\test-10.txt.gz c:\\Users\\andrej\\Downloads\\test-11.txt.gz c:\\Users\\andrej\\Downloads\\test-12.txt.gz c:\\Users\\andrej\\Downloads\\test-13.txt.gz c:\\Users\\andrej\\Downloads\\test-14.txt.gz c:\\Users\\andrej\\Downloads\\test-15.txt.gz c:\\Users\\andrej\\Downloads\\test-16.txt.gz c:\\Users\\andrej\\Downloads\\test-17.txt.gz c:\\Users\\andrej\\Downloads\\test-18.txt.gz "
+    }
+  }
+}
